@@ -1,0 +1,22 @@
+
+E
+java:S1604f"(Make this anonymous inner class a lambda(Ãªî8§¹Ğé©.
+\
+java:S18749":Remove this use of "ViewModelProviders"; it is deprecated.(¥‹­êúÿÿÿÿ8·£“ê©.
+‚
+java:S1450/"eRemove the "mymovieisresultingcall" field and declare it as a local variable in the relevant methods.(ü—ÆÒ8ÀÄ¯×©.
+c
+java:S1128"ARemove this unused import 'androidx.lifecycle.ViewModelProvider'.(ª´÷©øÿÿÿÿ8·£“ê©.
+o	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àë€Ÿùÿÿÿÿ8ÀÄ¯×©.
+h	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(£Èš°8µ‘ğ©.
+C	java:S131~""Add a default case to this switch.(øå´¡ÿÿÿÿÿ8ÀÄ¯×©.
+L
+java:S18749"*Remove this use of "of"; it is deprecated.(¥‹­êúÿÿÿÿ8·£“ê©.
+l
+java:S3008)"ORename this field "PAGE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ø´ˆ¶8ÀÄ¯×©.
+T
+java:S2696‹"6Make the enclosing method "static" or remove this set.(Á™íè8ÀÄ¯×©.
+v
+java:S3008("TRename this field "SORT_MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¤ÿÂúÿÿÿÿ8ÀÄ¯×©.
+S
+java:S2696"6Make the enclosing method "static" or remove this set.(ñæú}8ÀÄ¯×©.

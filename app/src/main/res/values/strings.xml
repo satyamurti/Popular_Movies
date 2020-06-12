@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MoviesAppStage2</string>
+    <string name="apiKey">c228bc9bf8dea95f905156d9628cc69b</string>
+    <string name="moviedetail">"I was lucky enough to attend "</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="_12_03_2244">12/03/2244</string>
+    <string name="_4_5_stars">4.5 stars</string>
+    <string name="trailer">Trailer</string>
+    <string name="reviews">Reviews</string>
+</resources>
